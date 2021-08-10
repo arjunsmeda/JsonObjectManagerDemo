@@ -17,8 +17,31 @@
                         "negative": 0.0
                     },
                     "offset": 0,
-                    "length": 58,
+                    "length": 43,
                     "text": "The product works great and I am loving it."
+                }
+            ],
+            "warnings": []
+        },
+		{
+            "id": "2",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.0,
+                "neutral": 0.0,
+                "negative": 1.0
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.0,
+                        "neutral": 0.0,
+                        "negative": 1.0
+                    },
+                    "offset": 0,
+                    "length": 40,
+                    "text": "I dont like the food in this restaurant."
                 }
             ],
             "warnings": []
